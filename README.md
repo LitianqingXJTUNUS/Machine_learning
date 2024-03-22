@@ -1,0 +1,1 @@
+Explainable XGBoost-SHAP machine-learning model to quantitative analysis of the importance of three different features about coupling and decoupling of glass transition:configurational entropy, mismacth entropy and pressure.
